@@ -1,11 +1,11 @@
 ## Welcome!
 
-The purpose of this site is to share my learning journey of **memorizing** the lyrical, rhythmic, unique poetic hymns of the late medieval Tamil Mystic, Saint, and poet *aruNagirinAtha bhagavAn*.
+The purpose of this site is to share my learning journey of **memorizing** the lyrical, rhythmic, unique poetic hymns of the medieval Tamil poet, Mystic, and Saint *aruNagirinAtha bhagavAn*.
 
 ### What I Will Do
 
 **Eliminate Typos**:
-Publishers inadvertently introduce typos when distributing Tamil literature, so I painstakingly compare several publications of aruNagirinAtha's Words and attempt to publish a version without typos here.
+Publishers inadvertently introduce typos when distributing Tamil literature. They also tend to "split" joined words. I will painstakingly compare several publications of aruNagirinAtha's Words and attempt to publish a version without typos here.
 
 **Define Challenging Words**:
 I assume readers' ability to read Tamil and English, and maybe Devanagari script too. I will define difficult Tamil words in English or Tamil to aid in memorization. Knowing each word's meaning makes memorizing easier and learning very rewarding.
@@ -22,4 +22,4 @@ zaMkarAcArya madhyamAm .
 asmadAcArya paryantAM
 vande guruparaMparAm ..
 ```
-I worship the Lineage of Gurus, commencing with God Shiva, with Saint-Philosopher-Theologian Adi Shankaracharya in the middle, and my Personal Master (Saint aruNagiri, in my case) at the end.
+I worship the Lineage of Gurus, with God Shiva at the very beginning, with Saint-Philosopher-Theologian Adi Shankaracharya in the middle, and my Personal Master (Saint aruNagiri, in my case) at the end.
