@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/the-divine-dev/the-divine-dev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this site is to share my learning journey of **memorizing** the lyrical, rhythmic, unique poetic hymns of the late medieval Tamil Mystic, Saint, and poet *aruNagirinAtha bhagavAn*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I Will Do
 
-### Markdown
+**Eliminate Typos**:
+Publishers inadvertently introduce typos when distributing Tamil literature, so I painstakingly compare several publications of aruNagirinAtha's Words and attempt to publish a version without typos here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Define Challenging Words**:
+I assume readers' ability to read Tamil and English, and maybe Devanagari script too. I will define difficult Tamil words in English or Tamil to aid in memorization. Knowing each word's meaning makes memorizing easier and learning very rewarding.
 
-```markdown
-Syntax highlighted code block
+Saint aruNagiri uses a beautiful heavily Sanskritized Tamil vocabulary, so I will point out Sanskrit words and indicate their pronunciation using the [Harvard-Kyoto convention](https://en.wikipedia.org/wiki/Harvard-Kyoto) in English or devanAgarI script. I'll also define Sanskrit words in either Tamil or English.
 
-# Header 1
-## Header 2
-### Header 3
+### Dedication to the Spiritual Masters
+sadAziva samArambhAM zaGkarAcArya madhyamAM .
+asmadAcArya paryantAM vande guruparaMparAM ..
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/the-divine-dev/the-divine-dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I worship the Lineage of Gurus, commencing with God sadAziva, with Saint-Philosopher-Theologian Adi zaGkarAcArya in the middle, and my Personal AcArya (Saint aruNagiri, in my case) at the end.
