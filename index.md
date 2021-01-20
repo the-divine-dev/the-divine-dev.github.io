@@ -13,7 +13,13 @@ I assume readers' ability to read Tamil and English, and maybe Devanagari script
 Saint aruNagiri uses a beautiful heavily Sanskritized Tamil vocabulary, so I will point out Sanskrit words and indicate their pronunciation using the [Harvard-Kyoto convention](https://en.wikipedia.org/wiki/Harvard-Kyoto) in English or devanAgarI script. I'll also define Sanskrit words in either Tamil or English.
 
 ### Dedication to the Spiritual Masters
-sadAziva samArambhAM zaGkarAcArya madhyamAM .
-asmadAcArya paryantAM vande guruparaMparAM ..
+```markdown
+सदाशिव समारम्भां शंकराचार्य मध्यमाम् ।
+अस्मदाचार्य पर्यन्तां वन्दे गुरुपरंपराम् ॥
 
-I worship the Lineage of Gurus, commencing with God sadAziva, with Saint-Philosopher-Theologian Adi zaGkarAcArya in the middle, and my Personal AcArya (Saint aruNagiri, in my case) at the end.
+sadAziva samArambhAM
+zaMkarAcArya madhyamAm .
+asmadAcArya paryantAM
+vande guruparaMparAm ..
+```
+I worship the Lineage of Gurus, commencing with God Shiva, with Saint-Philosopher-Theologian Adi Shankaracharya in the middle, and my Personal Master (Saint aruNagiri, in my case) at the end.
